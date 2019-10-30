@@ -9,7 +9,7 @@
     "async": "~0.8.0",
     "better-assert": "~1.0.0",
     "crypto-rand": "~0.0.2",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.15",
     "pg": "~3.3.0",
     "socket.io": "~1.1.0",
     "debug": "~1.0.4",
